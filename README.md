@@ -47,7 +47,7 @@
 
    > 대표적인 알고리즘으로 머신 러닝 알고리즘인 텍스트랭크(TextRank)가 있음
 
-   예시 : https://summariz3.herokuapp.com/
+   예시 : https://summariz3.herokuapp.com/ (10-10000자 세줄 요약)
 
 2. 추상적요약
 
@@ -63,7 +63,7 @@
 > 현재 대세임.
 
 
-
+<br>
 
 `본문에 포함된 파일은 Attention의 예시인 세줄 요약과 같이 몇줄 요약할지 지정하여 출력이 가능함`
 
