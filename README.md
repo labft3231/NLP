@@ -1,3 +1,19 @@
+https://github.com/labft3231/NLP
+
+`본문에 포함된 파일은 Attention의 예시인 세줄 요약과 같이 몇줄 요약할지 지정하여 출력이 가능함`
+
+`(현재 업로드 된 파일은 jupyter notebook에서 실행 가능합니다)`
+
+<br>
+
+상용 서비스 예시 : https://summariz3.herokuapp.com/  문장(10-10000자 까지 가능) 3줄 요약
+
+
+
+<br>
+
+<br>
+
 ### NLP(자연어처리)
 
 > 사람의 언어를 기계가 이해하는 하기 위한 처리
@@ -47,7 +63,7 @@
 
    > 대표적인 알고리즘으로 머신 러닝 알고리즘인 텍스트랭크(TextRank)가 있음
 
-   예시 : https://summariz3.herokuapp.com/ (10-10000자 세줄 요약)
+   예시 : https://summariz3.herokuapp.com/  문장(10-10000자 까지 가능) 3줄 요약
 
 2. 추상적요약
 
@@ -63,8 +79,6 @@
 > 현재 대세임.
 
 
-<br>
 
-`본문에 포함된 파일은 Attention의 예시인 세줄 요약과 같이 몇줄 요약할지 지정하여 출력이 가능함`
 
-`(현재 업로드 된 파일은 jupyter notebook에서 실행 가능합니다)`
+
